@@ -1,0 +1,16 @@
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.csproj.AssemblyReference.cache
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.GeneratedMSBuildEditorConfig.editorconfig
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.AssemblyInfoInputs.cache
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.AssemblyInfo.cs
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.csproj.CoreCompileInputs.cache
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.exe
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.deps.json
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.runtimeconfig.json
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.runtimeconfig.dev.json
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.dll
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\ref\EX05.dll
+E:\BearKS\OS_2564\EX05\bin\Debug\net5.0\EX05.pdb
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.dll
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\ref\EX05.dll
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.pdb
+E:\BearKS\OS_2564\EX05\obj\Debug\net5.0\EX05.genruntimeconfig.cache
