@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BearKS\\OS_2564\\EX04-2\\EX04-2.csproj",
+      "projectUniqueName": "E:\\BearKS\\OS_2564\\EX04[Pulse,Wait]\\EX04-2.csproj",
       "projectName": "EX04-2",
-      "projectPath": "E:\\BearKS\\OS_2564\\EX04-2\\EX04-2.csproj",
+      "projectPath": "E:\\BearKS\\OS_2564\\EX04[Pulse,Wait]\\EX04-2.csproj",
       "packagesPath": "C:\\Users\\Pamai\\.nuget\\packages\\",
-      "outputPath": "E:\\BearKS\\OS_2564\\EX04-2\\obj\\",
+      "outputPath": "E:\\BearKS\\OS_2564\\EX04[Pulse,Wait]\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pamai\\AppData\\Roaming\\NuGet\\NuGet.Config"

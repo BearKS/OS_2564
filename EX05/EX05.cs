@@ -8,10 +8,11 @@ namespace EX05
     {
         private static string x = "";
         private static int exitflag = 0;
-        private static int updateFlag = 0;
+       // private static int updateFlag = 0;
         
         //---------------Add Lock---------------//
         private static object _Lock = new object();
+        static Semaphore _sem = new Semaphore(1,1);
 
         static void ThReadX(object i)
         {
@@ -28,6 +29,7 @@ namespace EX05
                 }
                 finally
                 {
+                    Monitor.Wait(_Lock,100);
                     Monitor.Exit(_Lock);
                 }
             }
@@ -44,7 +46,7 @@ namespace EX05
                     Console.Write("Input: ");
                     Monitor.Pulse(_Lock);
                     xx = Console.ReadLine();
-                    Monitor.Write(_Lock);
+                    //Monitor.Wait(_Lock);
                     if (xx == "exit")
                     {
                         exitflag = 1;
