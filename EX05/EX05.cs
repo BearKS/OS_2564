@@ -40,17 +40,22 @@ namespace EX05
             while (exitflag == 0)
             {
                 lock (_Lock)
-                {
-                    Monitor.Pulse(_Lock);
+                {  
                     Console.Write("Input: ");
+                    Monitor.Pulse(_Lock);
                     xx = Console.ReadLine();
+                    Monitor.Write(_Lock);
                     if (xx == "exit")
+                    {
                         exitflag = 1;
                         Monitor.PulseAll(_Lock);
-                    x = xx;
+                    }  
+                    else
+                        x = xx;
                 }                   
             }
         }
+
 
         static void Main(string[] args)
         {
